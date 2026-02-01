@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Sherif 👋
+
+🎓 Student & aspiring programmer  
+💻 Currently learning CS50x  
+🌱 Interested in computer science and problem solving  
+
+📫 Reach me here on GitHub
+
 
 <!--
 **sherif3z/sherif3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
